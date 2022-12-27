@@ -490,8 +490,36 @@ namespace WindowsFormsApp12
 
         private void dataGridView1_MouseClick(object sender, MouseEventArgs e)
         {
-
         }
 
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            //DataGridViewCell cel = null;
+            //foreach (DataGridViewCell sel in dataGridView1.SelectedCells)
+            //{
+            //    cel = sel;
+            //    break;
+            //}
+
+            //if (cel == null && flag==1)
+            //{
+            //    label3.Visible = true;
+            //}
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            DataGridViewCell cel = null;
+            foreach (DataGridViewCell sel in dataGridView1.SelectedCells)
+            {
+                cel = sel;
+                break;
+            }
+
+            if (cel == null && flag == 1)
+            {
+                label3.Visible = true;
+            }
+        }
     }
 }

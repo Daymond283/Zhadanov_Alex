@@ -20,3 +20,10 @@ C:\Users\Студент\source\repos\WindowsFormsApp12\bin\Debug\MySql.Data.xml
 C:\Users\Студент\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
 C:\Users\Студент\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
 C:\Users\Студент\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Студент\Documents\GitHub\Zhadanov_Alex\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
